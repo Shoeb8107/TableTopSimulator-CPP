@@ -1,0 +1,30 @@
+# ninja log v5
+7	931	7453727802237897	Table Top Games CPP/CMakeFiles/CMakeTarget.dir/src/games/BlackJack/Table_Top_Games_CPP.cpp.obj	d88cbf381c45ef94
+12	505	7415649665949187	Table Top Games CPP/CMakeFiles/CMakeTarget.dir/Table_Top_Games_CPP.cpp.obj	e955b9a0224fb1
+10	666	7453623277723233	Table Top Games CPP/CMakeFiles/CMakeTarget.dir/src/games/blackjack/Table_Top_Games_CPP.cpp.obj	bb206354aba03915
+21	50	7454465213362032	Table Top Games CPP/CMakeFiles/BlackJackProject.dir/src/games/Game.cpp.obj	7a0863795b0a6d18
+14	306	7453727795992259	Table Top Games CPP/CMakeFiles/CMakeTarget.dir/src/games/BlackJack/Player.cpp.obj	6f541f16497734bd
+635	778	7454471716785245	Table Top Games CPP/BlackJackProject.exe	13ab81ec2b58b240
+666	880	7453623279114188	Table Top Games CPP/CMakeTarget.exe	9f3fef601eeb64e6
+18	324	7453727796172404	Table Top Games CPP/CMakeFiles/CMakeTarget.dir/src/deck/Card.cpp.obj	31517512026981b2
+2	259	7454632437420466	build.ninja	bc3042b7220b0e8e
+16	306	7453727795992259	Table Top Games CPP/CMakeFiles/CMakeTarget.dir/src/games/BlackJack/Dealer.cpp.obj	3f183cb47944c997
+8	482	7415654065029716	Table Top Games CPP/CMakeFiles/CMakeTarget.dir/src/Table_Top_Games_CPP.cpp.obj	3909e47798e6a18
+21	324	7453727796172404	Table Top Games CPP/CMakeFiles/CMakeTarget.dir/src/deck/FrenchDeck.cpp.obj	771a2808c765be55
+14	558	7454465610506210	Table Top Games CPP/CMakeFiles/BlackJackProject.dir/src/games/BlackJack/Player.cpp.obj	6467a29200a7893d
+16	656	7454465611487092	Table Top Games CPP/CMakeFiles/BlackJackProject.dir/src/games/BlackJack/Dealer.cpp.obj	336345ad04159580
+10	635	7454471715814361	Table Top Games CPP/CMakeFiles/BlackJackProject.dir/src/games/BlackJack/BlackJackGame.cpp.obj	9d94e8e87dd0b74e
+13	312	7454466122434832	Table Top Games CPP/CMakeFiles/BlackJackProject.dir/src/deck/FrenchDeck.cpp.obj	ba983f426b381a3d
+18	692	7454465611827408	Table Top Games CPP/CMakeFiles/BlackJackProject.dir/src/deck/Deck.cpp.obj	ffc3787bb4d06259
+10	627	7454468059923493	Table Top Games CPP/CMakeFiles/BlackJackProject.dir/src/main.cpp.obj	e90672d23acfba77
+16	301	7454639024360774	Table Top Games CPP/CMakeFiles/BlackJackProject.dir/src/games/Game.cpp.obj	7a0863795b0a6d18
+12	799	7454639029315275	Table Top Games CPP/CMakeFiles/BlackJackProject.dir/src/games/BlackJack/Player.cpp.obj	6467a29200a7893d
+14	890	7454639030236109	Table Top Games CPP/CMakeFiles/BlackJackProject.dir/src/games/BlackJack/Dealer.cpp.obj	336345ad04159580
+7	893	7454639030256124	Table Top Games CPP/CMakeFiles/BlackJackProject.dir/src/main.cpp.obj	e90672d23acfba77
+10	898	7454639030306170	Table Top Games CPP/CMakeFiles/BlackJackProject.dir/src/games/BlackJack/BlackJackGame.cpp.obj	9d94e8e87dd0b74e
+898	1113	7454639031710287	Table Top Games CPP/BlackJackProject.exe	13ab81ec2b58b240
+14	621	7454639227473427	Table Top Games CPP/CMakeFiles/BlackJackProject.dir/src/games/BlackJack/Dealer.cpp.obj	336345ad04159580
+9	623	7454639227503451	Table Top Games CPP/CMakeFiles/BlackJackProject.dir/src/main.cpp.obj	e90672d23acfba77
+12	633	7454639227603548	Table Top Games CPP/CMakeFiles/BlackJackProject.dir/src/games/BlackJack/BlackJackGame.cpp.obj	9d94e8e87dd0b74e
+16	651	7454639227763695	Table Top Games CPP/CMakeFiles/BlackJackProject.dir/src/deck/Deck.cpp.obj	ffc3787bb4d06259
+651	852	7454639229116749	Table Top Games CPP/BlackJackProject.exe	13ab81ec2b58b240

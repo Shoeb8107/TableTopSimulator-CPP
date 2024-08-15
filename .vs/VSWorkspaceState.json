@@ -1,0 +1,24 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "out\\build\\x64-debug",
+      "out\\install\\x64-debug",
+      "out\\build\\x64-release",
+      "out\\install\\x64-release",
+      "out\\build\\x86-debug",
+      "out\\install\\x86-debug",
+      "out\\build\\x86-release",
+      "out\\install\\x86-release"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\Table Top Games CPP",
+    "\\Table Top Games CPP\\src",
+    "\\Table Top Games CPP\\src\\deck",
+    "\\Table Top Games CPP\\src\\games",
+    "\\Table Top Games CPP\\src\\games\\BlackJack"
+  ],
+  "SelectedNode": "\\Table Top Games CPP\\src\\games\\BlackJack\\Player.cpp",
+  "PreviewInSolutionExplorer": false
+}
