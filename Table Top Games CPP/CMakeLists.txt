@@ -15,9 +15,9 @@ add_executable(BlackJackProject
     src/games/blackjack/BlackjackGame.cpp
     src/games/blackjack/Player.cpp
     src/games/blackjack/Dealer.cpp
-    src/deck/Deck.cpp
-    src/deck/FrenchDeck.cpp
-    src/games/Game.cpp)
+    "src/components/Deck.cpp"
+    "src/components/FrenchDeck.cpp"
+    src/games/Game.cpp )
 
 # TODO: Add tests and install targets if needed.
 

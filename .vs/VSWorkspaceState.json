@@ -15,10 +15,9 @@
     "",
     "\\Table Top Games CPP",
     "\\Table Top Games CPP\\src",
-    "\\Table Top Games CPP\\src\\deck",
+    "\\Table Top Games CPP\\src\\components",
     "\\Table Top Games CPP\\src\\games",
     "\\Table Top Games CPP\\src\\games\\BlackJack"
   ],
-  "SelectedNode": "\\Table Top Games CPP\\src\\games\\BlackJack\\Player.cpp",
   "PreviewInSolutionExplorer": false
 }
