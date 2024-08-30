@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Table Top Games CPP\\src\\components\\FrenchDeck.h",
               "ToolTip": "F:\\Repos\\Table Top Games CPP\\Table Top Games CPP\\src\\components\\FrenchDeck.h",
               "RelativeToolTip": "Table Top Games CPP\\src\\components\\FrenchDeck.h",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAOAAAA",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-08-27T22:14:48.29Z",
               "EditorCaption": ""
@@ -49,7 +49,7 @@
               "RelativeDocumentMoniker": "Table Top Games CPP\\src\\components\\FrenchDeck.cpp",
               "ToolTip": "F:\\Repos\\Table Top Games CPP\\Table Top Games CPP\\src\\components\\FrenchDeck.cpp",
               "RelativeToolTip": "Table Top Games CPP\\src\\components\\FrenchDeck.cpp",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAC0AAAATAAAA",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-27T22:14:47.478Z",
               "EditorCaption": ""
@@ -64,8 +64,7 @@
               "RelativeToolTip": "Table Top Games CPP\\src\\components\\Deck.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-27T22:03:53.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T22:03:53.472Z"
             },
             {
               "$type": "Document",
@@ -77,8 +76,7 @@
               "RelativeToolTip": "Table Top Games CPP\\src\\components\\Deck.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-27T21:32:38.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T21:32:38.801Z"
             }
           ]
         }
